@@ -1,7 +1,7 @@
 # Self-Evaluation-Tool
 This repository provides a high-level overview of a global self-evaluation platform designed to measure digital and leadership capabilities across the organization.
 
-**Note: **All screenshots are blurred and no confidential data, formulas, or app exports are included.
+**Note:** All screenshots are blurred and no confidential data, formulas, or app exports are included.
 This repository is intended for portfolio demonstration only.
 
 🚀 Solution Overview
