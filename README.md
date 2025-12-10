@@ -4,6 +4,8 @@ This repository provides a high-level overview of a global self-evaluation platf
 **Note:** All screenshots are blurred and no confidential data, formulas, or app exports are included.
 This repository is intended for portfolio demonstration only.
 
+---
+
 🚀 Solution Overview
 
 1. The platform enables employees to complete a short self-evaluation covering digital competencies and leadership skills. Responses are stored securely in SharePoint and analyzed in Power BI to generate insights. Personalized learning recommendations are automatically sent via email based on the individual’s results.
@@ -16,6 +18,8 @@ This repository is intended for portfolio demonstration only.
 - Visibility into participation and completion rates
 - Trends by region, division, and role level
 - Clear pathways for individual development and learning planning
+
+---
 
 🧩 Platform Architecture
 
@@ -31,3 +35,7 @@ Power Automate (Personalized Email)
        │
        ▼
 Power BI (Analytics Dashboard)
+
+## Confidentiality Note
+This repository contains **only blurred UI snippets and dummy examples** for academic evaluation.  
+No real data, internal processes, or proprietary logic is shared.
